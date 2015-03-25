@@ -1,0 +1,28 @@
+Robert Putnam
+01.) I made a global var that I would set after the play so the bot could return it
+02.) I just picked two moves that covered each others weaknesses and made a random function
+to pick between the two. Unfortunately stupid bot does win currently.
+03.) Python is dynamically typed, and it is strongly typed. It allows for variables to swap to
+whatever type it needs to, but it will not perfore string operations on an int.
+04.) Random bot always beats stupid bot. Stupid bot and iterative bot always tie. Iterative bot
+and random bot is pretty even. Stupid bot always beats my bot. Last play bot almost always beats
+iterative bot. I can beat any of them consistently except for random, which sometimes wins.
+05.) Against a random opponenet it is pretty random. However there are some pretty common strategies.
+This allows for some algorithms to actually win most of the time. But most of the time it seems like
+it will just be random chance if you win or not. If you know ahead of time what algorithm you are 
+playing against it might not be too hard to design one to beat it, but it would still take some time. 
+06.) I think the utilization of white space is interesting and its ease for file editing and network
+access/connections is very nice.
+07.) I dislike the lack of braces just because for me it shows more implicitely where things end. All
+in all I think python is a pretty good language but I would need some more practice with its scoping
+before I would want to do more than just some scripting in it.
+08.) I did like this lab, I prefer OOP because it is just a bit more comfortable. I felt that this one
+was pretty straight forward. I actually ended up experimenting with different windows text editors for
+this lab, and eventually settled on sublime with the VIM plugin. as much as I like NP++ I like having
+access to the VIM commands more. 
+09.) I didn't really count. I think I spent closer to 8 hours on this one just because of some stupid errors and 
+some case sensitive problems. I am still getting a couple warning, but since it is not impacting program
+performance I decided I might look into it if I have more time.
+10.) I do feel that I will use python again. Probably for networking. I have used python quite a bit for
+update scripts. Mostly just running updates for me, but since I do not have my linux box running
+right now I have not had a use for python for a while.
